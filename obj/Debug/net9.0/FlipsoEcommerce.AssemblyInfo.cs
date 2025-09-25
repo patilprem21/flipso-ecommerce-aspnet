@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FlipsoEcommerce")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ea973cf0256d70e2d9d6a9be4958e9018dcb1d25")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+227e4cb6634a23ea02fa88e4e3f43d4560500552")]
 [assembly: System.Reflection.AssemblyProductAttribute("FlipsoEcommerce")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FlipsoEcommerce")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
